@@ -1,0 +1,67 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+ghost_env/
+env/
+.venv/
+
+# Model files and downloads
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.log
+*.wav
+*.mp3
+*.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# PyCharm
+*.idea/*
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Compiled C extensions
+*.so
+
+# Debugging files
+*.swp
+*.swo
+*.bak
+
+# Environment configuration
+*.env
+.env
+
+# Batch script artifacts
+*.bat~
+
+# Temporary cache files
+*.cache/
