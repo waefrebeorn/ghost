@@ -106,6 +106,8 @@ This software is for entertainment purposes only. No guarantees are made regardi
 
 ---
 
+---
+
 ## License
 
 This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
