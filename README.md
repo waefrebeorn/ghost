@@ -103,3 +103,13 @@ SOFTWARE.
 ## 🌑 Disclaimer
 
 This software is for entertainment purposes only. No guarantees are made regarding the authenticity of paranormal detections or communications. Please use responsibly and keep your salt circles properly maintained.
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
